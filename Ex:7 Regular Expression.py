@@ -18,3 +18,4 @@ else:
     print(" - 1 uppercase letter")
     print(" - 1 lowercase letter")
     print(" - 1 digit")
+
