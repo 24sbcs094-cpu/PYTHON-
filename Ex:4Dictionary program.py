@@ -24,3 +24,4 @@ print("New dictionary:",dict2)
 dict1.clear()
 print("Updated Dictionary:",dict1)
 
+
