@@ -26,3 +26,4 @@ class HashTable:
 ht = HashTable(5)
 ht.put("ID_1", "Alice")
 print(ht.get("ID_1"))
+
