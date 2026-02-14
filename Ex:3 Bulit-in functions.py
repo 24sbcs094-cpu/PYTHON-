@@ -26,3 +26,4 @@ nums.clear()
 print("Cleared List:", nums)
 
  
+
