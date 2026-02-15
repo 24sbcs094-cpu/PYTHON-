@@ -37,3 +37,4 @@ for row in cur.execute("SELECT * FROM Students"):
     print(row)
 
 conn.close()
+
