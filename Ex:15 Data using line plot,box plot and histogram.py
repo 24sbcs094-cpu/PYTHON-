@@ -23,3 +23,4 @@ plt.xlabel("Value")
 plt.ylabel("Frequency") 
 plt.tight_layout() 
 plt.show()
+
