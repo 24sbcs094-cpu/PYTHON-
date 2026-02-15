@@ -32,3 +32,4 @@ def sum_two(x, y):
 total = reduce(sum_two, applied_data)
 print("Total sum:", total)
 
+
