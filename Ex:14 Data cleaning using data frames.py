@@ -18,3 +18,4 @@ df['Value'] = df['Value'].clip(upper=100)
 scaler = MinMaxScaler() 
 df['Value_norm'] = scaler.fit_transform(df[['Value']]) 
 print("\nCleaned Data:\n", df) 
+
