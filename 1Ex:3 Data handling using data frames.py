@@ -18,3 +18,4 @@ dept = pd.DataFrame({
 merged = pd.merge(df, dept, on='Name') 
 print(merged) 
 print(df.groupby('City')['Salary'].mean())
+
